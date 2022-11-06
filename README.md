@@ -87,7 +87,7 @@ Documentation at https://orkestral.github.io/venom/index.html
 ## Installation
 
 ```bash
-> npm i --save venom-bot
+> npm i --save hunter-x 
 ```
 
 or for [Nightly releases](https://github.com/orkestral/venom/releases/tag/nightly):
@@ -99,7 +99,7 @@ or for [Nightly releases](https://github.com/orkestral/venom/releases/tag/nightl
 Installing the current repository "you can download the beta version from the current repository!"
 
 ```bash
-> npm i github:orkestral/venom
+> npm i github:orkestral/hunter-x 
 ```
 
 ## Getting started Multidevice and Normal
@@ -107,7 +107,7 @@ Installing the current repository "you can download the beta version from the cu
 ```javascript
 // Supports ES6
 // import { create, Whatsapp } from 'venom-bot';
-const venom = require('venom-bot');
+const hunter-x  = require('venom-bot');
 
 venom
   .create({
@@ -135,9 +135,9 @@ function start(client) {
 }
 ```
 
-##### After executing `create()` function, **venom** will create an instance of whatsapp web. If you are not logged in, it will print a QR code in the terminal. Scan it with your phone and you are ready to go!
+##### After executing `create()` function, **hunter-x ** will create an instance of whatsapp web. If you are not logged in, it will print a QR code in the terminal. Scan it with your phone and you are ready to go!
 
-##### Venom will remember the session so there is no need to authenticate everytime.
+##### hunter-x  will remember the session so there is no need to authenticate everytime.
 
 ##### Multiples sessions can be created at the same time by pasing a session name to `create()` function:
 
