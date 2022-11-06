@@ -1,5 +1,5 @@
 
-# 🕷Venom Bot🕸
+# ❤️‍🔥HUNTER-X2💥
 
 [![npm version](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
 ![node](https://img.shields.io/node/v/venom-bot)
